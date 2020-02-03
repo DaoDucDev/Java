@@ -7,9 +7,9 @@ public class Main {
         System.out.printf("Chao mung den voi ngon ngu lap trinh Java!");
 
         //Khai bao bien
-        int count;
-        double radius;
-        char kiTu;
-        char number = 10;
+        int count; //Bien kieu so nguyen
+        double radius; //Bien kieu so thuc
+        char kiTu; //Bien kieu ki tu
+        int number = 10; //Bien kieu so nguyen duoc gan gia tri mac dinh la 10
     }
 }
